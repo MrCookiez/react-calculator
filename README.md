@@ -1,2 +1,2 @@
-# react--calculator
+# react-calculator
 basic react calculator
