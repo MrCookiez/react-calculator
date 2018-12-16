@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Share+Tech');
+
+.app {
+    height: 100vh;
+    font-family: 'Share Tech', sans-serif;
+    background-color: #f7f4f4;
+}
+.row {
+    display: flex;
+}
+.calc-wrapper {
+    margin: auto;
+    padding: 30px;
+    box-shadow: 1px 1px 12px rgb(226, 225, 225);
+    background-color: #e4e3e3;
+}
