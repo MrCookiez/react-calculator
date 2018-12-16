@@ -1,6 +1,6 @@
 ### FOLLOW THE STEPS
 
-#####CHECK THE FINAL RESULT HERE: https://vibrant-kepler-43be00.netlify.com/
+###### CHECK THE FINAL RESULT HERE: https://vibrant-kepler-43be00.netlify.com/
 
 ### 0. Open your terminal in the directory you want to place the project
 
